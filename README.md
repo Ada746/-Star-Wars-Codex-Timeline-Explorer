@@ -33,20 +33,6 @@ No compilation, Node.js, or complex build tools required!
 ### Prerequisites
 A modern web browser (Google Chrome, Firefox, Safari, Edge).
 
-### Installation & Run
-
-1. Clone the repository:
-   \`\`\`bash
-   git clone https://github.com/your-username/star-wars-codex.git
-   \`\`\`
-2. Navigate into the directory:
-   \`\`\`bash
-   cd star-wars-codex
-   \`\`\`
-3. Open `index.html` in your browser:
-   - Double-click `index.html`, or
-   - Use VS Code's **Live Server** extension.
-
 ---
 
 ## 📝 License
