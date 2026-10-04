@@ -1,8 +1,13 @@
 # 🌌 Star Wars Codex & Timeline Explorer
 
 An interactive Star Wars character directory and saga timeline explorer powered by the [SWAPI (Star Wars API)](https://www.swapi.tech/).
+---
 
 <img width="1920" height="988" alt="preview" src="https://github.com/user-attachments/assets/2bf9815f-c1b5-4e13-8c2c-c4d05756c17e" />
+<img width="1920" height="988" alt="preview2" src="https://github.com/user-attachments/assets/b9e7ab9d-8764-4853-8d7c-1f9aca81b874" />
+<img width="1920" height="981" alt="preview3" src="https://github.com/user-attachments/assets/b84166fb-c300-4b53-a592-7642402e009b" />
+
+
 
 ---
 
