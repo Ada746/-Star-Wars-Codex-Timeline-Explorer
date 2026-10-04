@@ -2,7 +2,7 @@
 
 An interactive Star Wars character directory and saga timeline explorer powered by the [SWAPI (Star Wars API)](https://www.swapi.tech/).
 
-![App Preview](assets/preview.png)
+<img width="1920" height="988" alt="preview" src="https://github.com/user-attachments/assets/2bf9815f-c1b5-4e13-8c2c-c4d05756c17e" />
 
 ---
 
