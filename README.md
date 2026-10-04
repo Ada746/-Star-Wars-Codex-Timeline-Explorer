@@ -11,7 +11,6 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![SWAPI](https://img.shields.io/badge/data-SWAPI-ffe81f?style=for-the-badge)
 ![No Dependencies](https://img.shields.io/badge/dependencies-0-00e5ff?style=for-the-badge)
-![License](https://img.shields.io/badge/license-MIT-green?style=for-the-badge)
 
 **[▶ Live demo](https://YOUR-USERNAME.github.io/holocron-explorer/)** · **[Report a bug](../../issues)** · **[Request a feature](../../issues)**
 
