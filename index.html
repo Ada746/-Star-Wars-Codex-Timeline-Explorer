@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Star Wars Characters in SWAPIt</title>
+    <!-- main stylesheet linking -->
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <h1>Star Wars Characters</h1>
+
+    <!-- affiliation color key -->
+    <div id="legend">
+        <div class="legend-item">
+            <span class="legend-dot red"></span>
+            <span>Empire / Sith</span>
+        </div>
+        <div class="legend-item">
+            <span class="legend-dot blue"></span>
+            <span>Rebellion / Jedi</span>
+        </div>
+        <div class="legend-item">
+            <span class="legend-dot gray"></span>
+            <span>Independent</span>
+        </div>
+    </div>
+
+    <!-- controls and feedback messages -->
+    <p><button id="btn-films">View Films Timeline</button></p>
+    <p id="loading">Characters loading...</p>
+
+    <!-- target grid for dynamically rendered character cards -->
+    <div id="container"></div>
+
+    <!-- pagination button to request the next batch of characters -->
+    <p><button id="btn-more">More characters</button></p>
+
+    <!-- popup lightbox for individual character details (vehicles and films) -->
+    <div id="modal" class="modal-overlay">
+        <div class="modal-box">
+            <span id="modal-close" class="modal-close">&times;</span>
+            <h2 id="modal-title"></h2>
+            <div id="modal-body">Loading details...</div>
+        </div>
+    </div>
+
+    <!-- popup modal for movie timeline and synopsis drill-down -->
+    <div id="films-modal" class="modal-overlay">
+        <div class="modal-box timeline-box">
+            <span id="films-modal-close" class="modal-close">&times;</span>
+            <!-- list view of all trilogies -->
+            <div id="films-view-list">
+                <h2 class="section-heading">Star Wars Saga Timeline</h2>
+                <div id="films-content">Loading timeline...</div>
+            </div>
+            <!-- single movie detail view with opening crawl -->
+            <div id="films-view-detail" style="display: none;">
+                <span class="btn-back" id="films-btn-back">&larr; Back to timeline</span>
+                <h2 id="film-detail-title" class="section-heading"></h2>
+                <div id="film-detail-body"></div>
+            </div>
+        </div>
+    </div>
+
+    <!-- main application logic -->
+    <script src="script.js"></script>
+</body>
+
+</html>
