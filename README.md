@@ -12,8 +12,6 @@
 ![SWAPI](https://img.shields.io/badge/data-SWAPI-ffe81f?style=for-the-badge)
 ![No Dependencies](https://img.shields.io/badge/dependencies-0-00e5ff?style=for-the-badge)
 
-**[▶ Live demo](https://YOUR-USERNAME.github.io/holocron-explorer/)** · **[Report a bug](../../issues)** · **[Request a feature](../../issues)**
-
 <img width="1920" height="988" alt="preview" src="https://github.com/user-attachments/assets/2bf9815f-c1b5-4e13-8c2c-c4d05756c17e" />
 <img width="1920" height="988" alt="preview2" src="https://github.com/user-attachments/assets/b9e7ab9d-8764-4853-8d7c-1f9aca81b874" />
 <img width="1920" height="981" alt="preview3" src="https://github.com/user-attachments/assets/b84166fb-c300-4b53-a592-7642402e009b" />
